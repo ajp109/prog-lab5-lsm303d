@@ -3,6 +3,6 @@
 
 LSM303D lsm303d(D14, D15);
 
-int main() {
+int main() {xczxc
     
 }
